@@ -54,3 +54,10 @@ Thumbs.db
 .coverage
 htmlcov/
 .nox/
+
+!third_party/NAFNet/
+third_party/NAFNet/build/
+third_party/NAFNet/dist/
+third_party/NAFNet/*.egg-info/
+third_party/NAFNet/**/*.so
+third_party/NAFNet/.pytest_cache/
