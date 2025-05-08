@@ -40,7 +40,7 @@ output/
 *.log
 
 # Data folders (if you download big data locally)
-data/
+#data/
 main/input_data/
 main/output_data/
 
