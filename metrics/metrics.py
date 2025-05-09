@@ -1,4 +1,3 @@
-# -------- metrics/metrics.py --------
 import torch
 
 def psnr(img1: torch.Tensor, img2: torch.Tensor) -> float:

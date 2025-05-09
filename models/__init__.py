@@ -18,4 +18,4 @@ def get_model(name, **kwargs):
 from .unet import UNet
 from .resnet34_unet import ResNetUNet
 from .uformer import UFormer
-from .nafnet import NAFNetModel
+#from .nafnet import NAFNetModel
